@@ -10,6 +10,7 @@ The primary challenge faced by the StarReel organization is to enhance the funct
 
 ## Solution Features
 This cinema booking web application aims to facilitate the way movie tickets are reserved and purchased, with key features including:
+
 **Normal User**:
 - User registration and login
 - Browse movies (airing now and coming soon) and view movie details
