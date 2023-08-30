@@ -24,7 +24,7 @@ This cinema booking web application aims to facilitate the way movie tickets are
 
 **Admin**:
 - View, add, edit, delete cinema hall experiences
-(future add-ons) - view, add, edit, delete movies, showtimes, cinema halls, and customer bookings
+- (future add-ons) view, add, edit, delete movies, showtimes, cinema halls, and customer bookings
 
 
 ## Program Design and Tech Stack
