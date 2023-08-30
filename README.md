@@ -4,9 +4,6 @@ Cinema booking web application in object-oriented style
 ## Introduction
 In today's modern world, cinema remains a cherished leisure activity, captivating audiences across generations. With the advent of technology, traditional ticket purchasing methods have evolved. Moviegoers have transitioned from waiting in lines at ticket counters to leveraging online platforms for ticket reservations. This paradigm shift not only offers convenience but also opens doors for data-driven insights into user preferences. This project strives to develop a comprehensive cinema booking system to streamline ticket purchasing, improve user experience and facilitate admin management.
 
-## Problem Statement
-The primary challenge faced by the StarReel organization is to enhance the functionality of its cinema web tools by leveraging customer data. To achieve this, the organization needs a robust solution that enables the collection of accurate and relevant information about cinema guests who purchase tickets online or through physical counters. This data serves as a goldmine for understanding user preferences, ranging from movie genres to room package preferences. The current lack of a structured system for data collection and analysis hinders the organization's ability to tailor its offerings to customer preferences effectively.
-
 
 ## Solution Features
 This cinema booking web application aims to facilitate the way movie tickets are reserved and purchased, with key features including:
@@ -29,7 +26,7 @@ This cinema booking web application aims to facilitate the way movie tickets are
 
 ## Program Design and Tech Stack
 #### 1. Object-oriented programming
-The development of the "Cinema Booking System" revolves around object-oriented principles, fostering modularity, encapsulation, inheritance, and polymorphism. The class diagram for the system showcases the relationships between key classes, such as User, Movie, Showtime, Booking, RoomPackage, and Cinema. Attributes and methods within each class are meticulously designed to reflect real-world entities and interactions while ensuring code reusability and maintainability.
+The development of the cinema booking website revolves around object-oriented principles, fostering modularity, encapsulation, inheritance, and polymorphism. The class diagram for the system showcases the relationships between key classes, such as User, Movie, Showtime, Booking, RoomPackage, and Cinema. Attributes and methods within each class are meticulously designed to reflect real-world entities and interactions while ensuring code reusability and maintainability.
 
 #### 2. PHP with SQL, HTML, CSS, JS
 PHP is used for programming the backend functionality of the website, along with SQL for database language. HTML, CSS and JS are used for the frontend programming of the website.
